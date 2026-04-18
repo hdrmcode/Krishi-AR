@@ -128,6 +128,9 @@ Assets/Resources/groq_key.txt
 
 5. Install APK on device
 
+6. Use this Dataset for Detection:
+https://www.kaggle.com/datasets/emmarex/plantdisease/data?select=PlantVillage
+
 ---
 
 ## 📊 Results
